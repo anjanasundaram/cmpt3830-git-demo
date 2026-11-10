@@ -1,4 +1,4 @@
-print("Simple Calculator-conflict-a example")
+print("Final Calculator")
 
 try:
     num1 = int(input("Enter first number: "))
